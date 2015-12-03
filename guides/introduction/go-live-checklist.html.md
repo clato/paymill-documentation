@@ -1,6 +1,6 @@
 ---
-title: "Check-List for Go-Live"
-menu: "Check-List for Go-Live"
+title: "Check-List to Go-Live"
+menu: "Check-List to Go-Live"
 type: "guide"
 status: "published"
 menuOrder: 8
